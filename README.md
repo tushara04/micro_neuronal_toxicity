@@ -4,7 +4,7 @@ Over the past couple years, many studies have found micro- and nanoplastics pass
 
 Given the intriguing neurological effects of microplastics on organisms, I decided to model it as part of the project. The primary reference [3] for my project provides an overview of the literature that investigated the neurotoxic effects of micro- and nanoplastics. And one of the most frequently occuring effects was the inhibition of AChE activity. Acetylcholinesterase, AChE, is an enzyme that performs rapid hydrolysis of the neurotransmitter acetylcholine, ACh [6]. With exposure of microplastics, the activity of AChE gets inhibited, resulting in the accumulation of ACh in the synaptic cleft. This prolongs the depolarization caused by ACh. To simulate this, I am using the NEURON library where I model the membrane potential response of a postsynaptic neuron in the normal condition and compare that with the inhibited condition where the decay rate of ACh is reduced. 
 
-The Jupyter notebook contains the code written.
+The Jupyter notebook contains the code written. All the explanations and decisions are written as the comments.
 
 # AI Contributions
 I started with reading some of the papers mentioned in the reference section. Once I was sure that I want to model the neurological effects of microplastics wherein I compare what happens with a neuron or a network of neurons when there is no plastic and when there is, I took ChatGPT's help to get an idea of where to get started. The prompts given:
