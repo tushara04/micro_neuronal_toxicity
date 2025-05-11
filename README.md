@@ -24,3 +24,4 @@ ChatGPT provided me with a basic script to do that, but by then I was not aware 
 4. Huang, H., Hou, J., Li, M., Wei, F., Liao, Y., & Xi, B. (2025, January 22). Microplastics in the bloodstream can induce cerebral thrombosis by causing cell obstruction and lead to neurobehavioral abnormalities | science advances. ScienceAdvances. https://www.science.org/doi/10.1126/sciadv.adr8243 
 5. Kim, D. Y., Park, M. K., Yang, H. W., Woo, S. Y., Jung, H. H., Son, D. S., Choi, B. Y., & Suh, S. W. (2025). Effects of Microplastic Accumulation on Neuronal Death After Global Cerebral Ischemia. Cells, 14(4), 241. https://doi.org/10.3390/cells14040241
 6. Acetylcholinesterase. In Wikipedia. Retrieved May 11, 2025, from https://en.wikipedia.org/wiki/Acetylcholinesterase
+7. Acetylcholine. In Wikipedia. Retrieved May 11, 2025, from https://en.wikipedia.org/wiki/Acetylcholine
